@@ -5,7 +5,8 @@ import re
 from pathlib import Path
 from colorama import init, Fore
 
-# BrutalForce author: Zombrax
+# BrutalForce author: Zombrax.
+# Special thanks to Mina Morcos for his infinite support.
 
 brutal_force_ascii = r"""
  /$$$$$$$                        /$$               /$$       /$$$$$$$$                                     
