@@ -16,6 +16,7 @@ BrutalForce is designed for performing brute-force, rate-limit, and race-conditi
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
+- [Important](#important)
 
 ## Installation
 
@@ -82,3 +83,6 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 
 ## License
 BrutalForce is released under MIT license. See [LICENSE](https://github.com/Zombrakes/BrutalForce/blob/main/LICENSE)
+
+## Important
+**Remember:** BrutalForce is intended for ethical security testing purposes only. Always obtain proper authorization before testing any web application or API. Unauthorized testing can have legal consequences.
